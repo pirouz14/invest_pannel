@@ -1,0 +1,786 @@
+body {
+    direction: rtl;
+}
+.main-banner-content {
+    text-align: right;
+}
+.navbar-brand {
+    margin-right: 0;
+}
+.luvion-nav .navbar .navbar-nav {
+    margin-right: auto;
+    margin-left: 0;
+}
+.luvion-nav .navbar .navbar-nav .nav-item .dropdown-menu {
+    right: 0px;
+    left: auto;
+    text-align: right;
+}
+.luvion-nav .navbar .navbar-nav .nav-item a i {
+    margin-left: 0;
+    margin-right: 1px;
+}
+.luvion-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu {
+    right: -250px;
+    left: auto;
+}
+.luvion-nav .navbar .navbar-nav .nav-item:first-child a {
+    margin-right: 0;
+    margin-left: 15px;
+}
+.luvion-nav .navbar .navbar-nav .nav-item:last-child a {
+    margin-left: 0;
+    margin-right: 15px;
+}
+.luvion-nav .navbar .others-options {
+    margin-right: 25px;
+    margin-left: 0;
+}
+.featured-boxes-inner .col-lg-3 {
+    border-left: 1px solid #eeeeee;
+    border-right: none;
+}
+.single-featured-box .read-more-btn::before {
+    right: 0px;
+    left: auto;
+}
+.overview-box .overview-content .content.left-content {
+    margin-right: auto;
+    margin-left: 0;
+    padding-left: 50px;
+    padding-right: 0;
+    text-align: right;
+
+}
+.overview-box .overview-content .content .services-list {
+    padding-right: 0;
+}
+.overview-box .overview-content .content .services-list li span {
+    padding-left: 15px;
+    padding-right: 35px;
+}
+.overview-box .overview-content .content .services-list li span i {
+    right: 15px;
+    left: auto;
+}
+.overview-box .overview-content .content .services-list li span::before {
+    right: 0;
+    left: auto;
+}
+.overview-box .overview-content .content {
+    max-width: 555px;
+    padding-right: 50px;
+    text-align: right;
+    padding-left: 0;
+}
+.comparisons-table table thead th:nth-child(1) {
+    text-align: right;
+    padding-right: 50px;
+    padding-left: 0;
+}
+.comparisons-table table tbody td:nth-child(1) {
+    text-align: right;
+    padding-right: 50px;
+    padding-left: 0;
+}
+.single-features-box {
+    text-align: right;
+}
+.single-features-box::before {
+    right: 0;
+    left: auto;
+}
+.invoicing-content {
+    margin-right: auto;
+    margin-left: 0;
+    text-align: right;
+}
+.invoicing-image .circle-image img:nth-child(1) {
+    right: 50px;
+    left: auto;
+}
+.invoicing-image .circle-image img:nth-child(2) {
+    left: 50px;
+    right: auto;
+}
+.invoicing-image .main-image img:nth-child(4) {
+    left: 40px;
+    right: auto;
+}
+.invoicing-image .main-image img:nth-child(2) {
+    right: 40px;
+    left: auto;
+}
+.invoicing-image .main-image img:nth-child(3) {
+    right: 40px;
+    left: auto;
+}
+.contact-cta-box {
+    padding: 30px 30px 30px 210px;
+    text-align: right;
+}
+.contact-cta-box .btn {
+    left: 30px;
+    right: auto;
+}
+.slick-slide {
+    float: right;
+}
+.feedback-slides .client-feedback .single-feedback {
+    padding-right: 170px;
+    padding-left: 40px;
+    text-align: right;
+}
+.feedback-slides .client-feedback .single-feedback .client-img {
+    right: 40px;
+    left: auto;
+}
+.ready-to-talk-content span a {
+    margin-right: 15px;
+    margin-left: 0;
+}
+.app-download-content {
+    padding-right: 20px;
+    text-align: right;
+    padding-left: 0;
+}
+.app-download-content .btn-box .play-store-btn {
+    margin-right: 12px;
+    margin-left: 0;
+    padding: 12px 60px 12px 25px;
+}
+.app-download-content .btn-box .play-store-btn i {
+    right: 16px;
+    left: auto;
+}
+.app-download-content .btn-box .app-store-btn {
+    padding: 12px 60px 12px 25px;
+}
+.app-download-content .btn-box .app-store-btn i {
+    right: 16px;
+    left: auto;
+}
+.single-footer-widget {
+    text-align: right;
+}
+.single-footer-widget .footer-contact-info {
+    padding-right: 0;
+}
+.single-footer-widget .list {
+    padding-right: 0;
+}
+.pl-5, .px-5 {
+    padding-right: 3rem !important;
+    padding-left: 0 !important;
+}
+.single-footer-widget .social-links {
+    padding-right: 0;
+}
+.go-top {
+    left: 15px;
+    right: auto;
+}
+.app-image .circle-img {
+    right: 0;
+    left: auto;
+}
+.banner-content {
+    text-align: right;
+}
+.money-transfer-form {
+    margin-right: 100px;
+    margin-left: 0;
+}
+.money-transfer-form form .form-group label {
+    right: 15px;
+    left: auto;
+}
+.money-transfer-form form .form-group .form-control {
+    padding-right: 0;
+    padding-left: 95px;
+}
+.money-transfer-form form .form-group .amount-currency-select {
+    left: 0;
+    right: auto;
+}
+.money-transfer-form form .form-group .nice-select {
+    border-radius: 5px 0 0 5px;
+    padding: 0 25px 0 35px;
+}
+.nice-select:after {
+    left: 18px !important;
+    right: auto !important;
+}
+.money-transfer-form form .currency-info {
+    text-align: right;
+    padding-right: 20px;
+    padding-left: 0;
+}
+.money-transfer-form form .currency-info span:last-child {
+    margin-right: 15px;
+    margin-left: 0;
+}
+.money-transfer-form form .currency-info .bar {
+    right: 0;
+    left: auto;
+}
+.money-transfer-form form .form-group {
+    background: -webkit-gradient(linear, left top, right top, from(#ee0979), to(#ff6a00));
+    background: linear-gradient(-90deg, #ee0979 0%, #ff6a00 100%);
+    padding: 36px 15px 12px 10px;
+}
+.overview-box .overview-content .content .features-list {
+    padding-right: 0px;
+}
+.overview-box .overview-content .content .features-list li span {
+    padding-right: 31px;
+    padding-left: 0;
+}
+.overview-box .overview-content .content .features-list li span i {
+    right: 0;
+    left: auto;
+}
+.features-box-list {
+    margin-right: auto;
+    margin-left: 0;
+}
+.features-box {
+    padding-left: 25px;
+    padding-right: 110px;
+    text-align: right;
+}
+.features-box .icon {
+    right: 25px;
+    left: auto;
+}
+.features-box::before {
+    right: 0;
+    left: auto;
+    background: -webkit-gradient(linear, left top, right top, from(#ee0979), to(#ff6a00));
+    background: linear-gradient(-90deg, #ee0979 0%, #ff6a00 100%);
+}
+.comparisons-table table thead tr {
+    background: linear-gradient(-90deg, rgb(238, 9, 121) 0%, rgb(255, 106, 0) 100%);
+}
+.btn-primary::before {
+    background: -webkit-gradient(linear, left top, right top, from(#ee0979), to(#ff6a00));
+    background: linear-gradient(-90deg, #ee0979 0%, #ff6a00 100%);
+}
+.single-blog-post .blog-post-content {
+    text-align: right;
+}
+.single-blog-post .blog-image .date {
+    right: 20px;
+    left: auto;
+    background: -webkit-gradient(linear, left top, right top, from(#ee0979), to(#ff6a00));
+    background: linear-gradient(-90deg, #ee0979 0%, #ff6a00 100%);
+}
+.single-blog-post .blog-image .date i {
+    margin-left: 2px;
+    margin-right: 0;
+}
+.hero-content {
+    text-align: right;
+}
+.hero-image .video-btn i {
+    margin-left: 2px;
+    margin-right: 0;
+}
+.hero-image .main-image img:nth-child(3) {
+    left: -80px;
+    right: auto;
+}
+.hero-image .main-image img:nth-child(2) {
+    right: -30px;
+    left: auto;
+}
+.single-information-box .btn-box .play-store-btn {
+    margin-right: 5px;
+    margin-left: 0;
+    padding: 10px 35px 10px 15px;
+    text-align: right;
+}
+.single-information-box .btn-box .play-store-btn i {
+    right: 8px;
+    left: auto;
+}
+.single-information-box .btn-box .app-store-btn {
+    padding: 10px 35px 10px 15px;
+    text-align: right;
+}
+.single-information-box .btn-box .app-store-btn i {
+    right: 8px;
+    left: auto;
+}
+.single-information-box {
+    padding-right: 60px;
+    padding-left: 0;
+    text-align: right;
+}
+.single-information-box .icon {
+    right: 0;
+    left: auto;
+}
+.information-area .col-lg-3:last-child .single-information-box {
+    padding-right: 0;
+}
+.about-content {
+    padding-left: 25px;
+    text-align: right;
+    padding-right: 0;
+}
+.single-team-member {
+    text-align: right;
+}
+.single-team-member .member-image .social {
+    padding-right: 0;
+}
+.page-title-text {
+    text-align: right;
+}
+.page-title-text ul {
+    padding-right: 0;
+    padding-left: 0;
+    left: 0;
+    right: auto;
+}
+.page-title-text ul li::before {
+    left: -15px;
+    right: auto;
+}
+.page-title-text ul li:first-child {
+    margin-right: 0;
+    margin-left: 10px;
+}
+.single-pricing-box {
+    text-align: right;
+}
+.single-pricing-box .price span {
+    margin-right: -10px;
+    margin-left: 0;
+}
+.single-pricing-box .pricing-features {
+    padding-right: 0;
+}
+.single-pricing-box .pricing-features li {
+    padding-right: 19px;
+    padding-left: 0;
+}
+.single-pricing-box .pricing-features li i {
+    right: 0;
+    left: auto;
+}
+.faq-content {
+    text-align: right;
+}
+.faq-accordion .accordion {
+    padding-right: 0;
+}
+.faq-accordion .accordion .accordion-title {
+    padding: 12px 50px 12px 20px;
+    text-align: right;
+}
+.faq-accordion .accordion .accordion-title i {
+    right: 0;
+    left: auto;
+}
+.faq-accordion .accordion .accordion-content {
+    text-align: right;
+}
+.faq-contact-form form #msgSubmit {
+    margin-bottom: 0 !important;
+    text-align: center !important;
+}
+.single-blog-post .blog-post-content .read-more-btn i {
+    margin-right: 2px;
+    margin-left: 0;
+}
+.widget-area .widget_search form button {
+    left: 0;
+    right: auto;
+}
+.widget-area .widget .widget-title {
+    text-align: right;
+}
+.widget-area .widget .widget-title::before {
+    right: 0;
+    left: auto;
+}
+.widget-area .widget_luvion_posts_thumb .item .thumb {
+    float: right;
+    margin-left: 15px;
+    margin-right: 0;
+}
+.widget-area .widget_luvion_posts_thumb .item .info {
+    text-align: right;
+}
+.widget-area .widget_recent_entries ul {
+    padding-right: 0;
+    text-align: right;
+}
+.widget-area .widget_recent_entries ul li {
+    padding-right: 14px;
+    padding-left: 0;
+}
+.widget-area .widget_recent_entries ul li::before {
+    right: 0;
+    left: auto;
+}
+.widget-area .widget_archive ul {
+    padding-right: 0;
+    text-align: right;
+}
+.widget-area .widget_archive ul li {
+    padding-right: 14px;
+    padding-left: 0;
+}
+.widget-area .widget_archive ul li::before {
+    right: 0;
+    left: auto;
+}
+.widget-area .widget_categories ul {
+    padding-right: 0;
+    text-align: right;
+}
+.widget-area .widget_categories ul li {
+    padding-right: 14px;
+    padding-left: 0;
+}
+.widget-area .widget_categories ul li::before {
+    right: 0;
+    left: auto;
+}
+.widget-area .widget_meta ul {
+    padding-right: 0;
+    text-align: right;
+}
+.widget-area .widget_meta ul li {
+    padding-right: 14px;
+    padding-left: 0;
+}
+.widget-area .widget_meta ul li::before {
+    right: 0;
+    left: auto;
+}
+.tagcloud {
+    text-align: right;
+}
+.blog-details {
+    text-align: right;
+}
+.blog-details .article-content .entry-meta ul {
+    padding-right: 0;
+}
+.blog-details .article-content .entry-meta ul li {
+    margin-left: 21px;
+    margin-right: 0;
+}
+.blog-details .article-content .entry-meta ul li::before {
+    left: -15px;
+    right: auto;
+}
+blockquote::before, .blockquote::before {
+    right: 50px;
+    left: auto;
+}
+.blog-details .article-content .wp-block-gallery.columns-3 {
+    padding-right: 0;
+}
+.blog-details .article-content .article-features-list {
+    padding-right: 0;
+    margin-right: 20px;
+    margin-left: 0;
+}
+.blog-details .article-content .article-features-list li {
+    padding-right: 15px;
+    padding-left: 0;
+}
+.blog-details .article-content .article-features-list li::before {
+    right: 0;
+    left: auto;
+}
+.blog-details .article-footer .article-tags span {
+    margin-left: 5px;
+    margin-right: 0;
+}
+.blog-details .article-footer .article-share .social {
+    padding-right: 0;
+    text-align: left;
+}
+.comments-area .comments-title {
+    text-align: right;
+}
+.comments-area .comment-body {
+    padding-right: 65px;
+    padding-left: 0;
+    text-align: right;
+}
+.comments-area .comment-author .avatar {
+    right: -65px;
+    left: auto;
+}
+.comments-area .children {
+    margin-right: 20px;
+    margin-left: 0;
+}
+.comment-respond {
+    text-align: right;
+}
+.comments-area .comment-respond .comment-form-cookies-consent {
+    padding-right: 20px;
+    padding-left: 0;
+}
+.comments-area .comment-respond .comment-form-cookies-consent input {
+    right: 0;
+    left: auto;
+}
+.single-footer-widget .list li a:hover {
+    padding-right: 5px;
+   padding-left: 0;
+}
+.contact-form {
+    text-align: right;
+}
+.contact-form form #msgSubmit {
+    margin-bottom: 0 !important;
+    text-align: right !important;
+}
+.contact-form form .help-block ul {
+    padding-right: 0;
+}
+.contact-info ul li {
+    padding-right: 95px;
+    padding-left: 0;
+    text-align: right;
+}
+.contact-info ul li .icon {
+    right: 0;
+    left: auto;
+}
+.contact-info ul {
+    padding-right: 0;
+}
+.luvion-nav .navbar .others-options .login-btn i {
+    margin-left: 2px;
+    margin-right: 0;
+}
+
+
+/* RTL responsive css*/
+@media only screen and (max-width: 767px) {
+    .mean-container a.meanmenu-reveal {
+        left: 0 !important;
+        right: auto !important;
+    }
+    .mean-container .mean-nav ul li a.mean-expand {
+        width: 90%;
+    }
+    .luvion-responsive-nav .logo {
+        text-align: right;
+    }
+
+    .overview-box .overview-content .content.left-content {
+        margin-right: 0 !important;
+        padding-left: 0 !important;
+    }
+    .overview-box .overview-content .content .services-list li span {
+        text-align: right;
+    }
+    .overview-box .overview-content .content.left-content {
+        text-align: center;
+    }
+    .overview-box .overview-content .content {
+        padding-right: 0;
+    }
+
+    .feedback-slides .client-feedback .single-feedback .client-img {
+        left: 40px;
+        right: auto;
+    }
+
+    .app-download-content {
+        padding-right: 0;
+    }
+    .app-download-content .btn-box .app-store-btn span {
+        font-size: 14.5px !important;
+    }
+    .app-download-content .btn-box .play-store-btn i {
+        left: 10px;
+        right: auto;
+    }
+    .app-download-content .btn-box .app-store-btn i {
+        left: 10px;
+        right: auto;
+    }
+
+    .single-footer-widget.pl-5 {
+        padding-right: 0 !important;
+    }
+
+    .money-transfer-form {
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+    .money-transfer-form form .currency-info span:last-child {
+        margin-right: 0;
+    }
+
+    .overview-box .overview-content .content .features-list {
+        text-align: right !important;
+    }
+
+    .hero-image .video-btn {
+        font-size: 14px;
+    }
+
+    .comparisons-table table tbody td:nth-child(1) {
+        padding-right: 20px;
+    }
+
+    .single-information-box {
+        padding-right: 0 !important;
+    }
+    .single-information-box .btn-box .play-store-btn {
+        margin-right: 10px !important;
+        margin-left: 0 !important;
+        padding: 12px 30px 12px 15px !important;
+    }
+    .single-information-box .btn-box .app-store-btn {
+        padding: 12px 30px 12px 15px !important;
+    }
+    .information-area .col-lg-3:last-child .single-information-box {
+        padding-right: 0 !important;
+    }
+    .single-information-box .btn-box .app-store-btn i {
+        right: 4px !important;
+        left: auto !important;
+    }
+    .single-information-box .btn-box .play-store-btn i {
+        right: 4px !important;
+        left: auto !important;
+    }
+
+    .about-content {
+        padding-left: 0;
+    }
+
+    .single-team-member {
+        text-align: right !important;
+    }
+
+    .contact-info ul li {
+        padding-right: 87px !important;
+        padding-left: 0 !important;
+    }
+    .contact-info {
+        padding-left: 25px !important;
+        padding-right: 0 !important;
+    }
+
+    .luvion-responsive-nav .others-options .login-btn i {
+        margin-left: 2px;
+        margin-right: 0;
+    }
+
+    .go-top {
+        left: 10px !important;
+        right: auto !important;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+    .mean-container a.meanmenu-reveal {
+        left: 0 !important;
+        right: auto !important;
+    }
+    .mean-container .mean-nav ul li a.mean-expand {
+        width: 90%;
+    }
+    .luvion-responsive-nav .logo {
+        text-align: right;
+    }
+
+    .overview-box .overview-content .content.left-content {
+        margin-left: auto !important;
+        padding-left: 0 !important;
+    }
+    .overview-box .overview-content .content .services-list li span {
+        text-align: right;
+    }
+    .overview-box .overview-content .content.left-content {
+        text-align: center;
+    }
+    .overview-box .overview-content .content {
+        padding-right: 0;
+    }
+    .overview-box .overview-content .content .features-list {
+        text-align: right !important;
+    }
+
+    .single-footer-widget.pl-5 {
+        padding-right: 0 !important;
+    }
+
+    .app-image .circle-img {
+        left: 0;
+        right: 0;
+    }
+
+    .hero-image .main-image img:nth-child(3) {
+        left: -25px !important;
+        right: auto !important;
+    }
+
+    .invoicing-image .main-image img:nth-child(4) {
+        left: -30px !important;
+        right: auto !important;
+    }
+
+    .single-information-box .btn-box .play-store-btn {
+        padding: 10px 40px 10px 15px !important;
+    }
+
+    .app-download-content {
+        padding-right: 0 !important;
+    }
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+
+    .overview-box .overview-content .content.left-content {
+        margin-right: 0 !important;
+        padding-left: 0 !important;
+    }
+    .overview-box .overview-content .content {
+        padding-right: 25px;
+    }
+    .overview-box .overview-content .content {
+        padding-right: 25px !important;
+        padding-left: 0 !important;
+    }
+
+    .invoicing-image .main-image img:nth-child(4) {
+        left: -65px !important;
+        right: auto !important;
+    }
+
+    .hero-image .main-image img:nth-child(3) {
+        left: -15px !important;
+        right: auto !important;
+    }
+    
+    .single-information-box .btn-box .app-store-btn {
+        padding: 10px 50px 10px 20px !important;
+    }
+    .single-information-box .btn-box .play-store-btn {
+        padding: 10px 50px 10px 20px !important;
+        margin-right: 0 !important;
+    }
+
+    .luvion-nav .navbar .navbar-nav .nav-item a {
+        font-size: 16px;
+    }
+
+}
