@@ -128,7 +128,7 @@
                     </ul>
 
                     <div class="others-options">
-                        <a href="auth/login.blade.php" class="login-btn"><i class="flaticon-user"></i> وارد شوید</a>
+                        <a href="/login" class="login-btn"><i class="flaticon-user"></i> وارد شوید</a>
                     </div>
                 </div>
             </nav>
